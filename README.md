@@ -1,75 +1,19 @@
-# Nuxt 3 Minimal Starter
+# Threads Clone Project
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a follow along project with [John Weeks Dev](https://www.youtube.com/@johnweeksdev) in his youtube tutorial [Full Stack Threads Clone with Nuxt 3, Vue js, Tailwind CSS, Supabase, Prisma, Javascript, PWA,](https://www.youtube.com/watch?v=TfKDkErJUtk&t=2528s).
 
-## Setup
+# Requirements
 
-Make sure to install the dependencies:
+I created this project with the following versions
 
-```bash
-# npm
-npm install
+- node: **v20.10.0**
+- npm: **10.2.3**
 
-# pnpm
-pnpm install
+# How to Setup
 
-# yarn
-yarn install
+- Clone the project
+- In the terminal, run `yarn install`
+- Then, run `yarn dev --open`
 
-# bun
-bun install
-```
+# Project Preview
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
