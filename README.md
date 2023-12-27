@@ -16,4 +16,7 @@ I created this project with the following versions
 - Then, run `yarn dev --open`
 
 # Project Preview
+![image](https://github.com/peterpardo/threads-clone/assets/57168579/634b2ad7-f57f-40a4-9209-a653afd97a91)
+
+![image](https://github.com/peterpardo/threads-clone/assets/57168579/91cbf1ed-c8ab-40da-bccf-c7515fd4503d)
 
