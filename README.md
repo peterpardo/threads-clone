@@ -1,4 +1,5 @@
 # Threads Clone Project
+**Note:** I've deleted the database for this project to accomodate my other personal project.
 
 This is a follow along project with [John Weeks Dev](https://www.youtube.com/@johnweeksdev) in his youtube tutorial [Full Stack Threads Clone with Nuxt 3, Vue js, Tailwind CSS, Supabase, Prisma, Javascript, PWA,](https://www.youtube.com/watch?v=TfKDkErJUtk&t=2528s).
 
